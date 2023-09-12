@@ -99,7 +99,7 @@ def main():
 
                 # create conversation chain
                 st.session_state.conversation = get_conversation_chain(vectorstore)
-
+        st.text("Made with ❤️ by Aryaman")
 
 if __name__ == '__main__':
     main()
