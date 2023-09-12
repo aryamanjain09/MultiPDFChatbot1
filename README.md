@@ -43,5 +43,11 @@ Load PDF documents into the app by following the provided instructions.
 
 Ask questions in natural language about the loaded PDFs using the chat interface.
 
+## Screenshots
 
+The application is able to interpret the 168-page FMS Casebook and provide information regarding its contents. It is also able to retain conversational history by understanding the context and providing the required frameworks asked in the 2nd prompt.
+
+<img width="1440" alt="Chatbot" src="https://github.com/aryamanjain09/MultiPDFChatbot1/assets/115731877/587281cb-8b77-4c79-a819-9800548c3267">
+
+<img width="806" alt="Chatbot2" src="https://github.com/aryamanjain09/MultiPDFChatbot1/assets/115731877/97460cf3-edf4-40c0-b22f-c0cf6a7f134d">
 
