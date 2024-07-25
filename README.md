@@ -35,7 +35,7 @@ Ensure that you have installed the required dependencies and added the API keys 
 
 Run the app.py file using the Streamlit CLI. Execute the following command:
 
-streamlit run app.py
+`streamlit run app.py`
 
 The application will launch in your default web browser, displaying the user interface.
 
